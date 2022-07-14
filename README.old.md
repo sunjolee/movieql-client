@@ -42,6 +42,12 @@ npm run start
 # 1.3 useQuery Variables
 
 # 1.4 Apollo Dev Tools
+
+설치 
+
+https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm
+
+
 # 3 [2022 UPDATE] LOCAL STATE
 
 # 2.0 Styles
