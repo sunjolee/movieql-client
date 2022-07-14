@@ -30,6 +30,11 @@
 
 # 1.0 Setup
 
+npm i @apollo/client graphql react-router-dom@6
+
+npm run start
+
+
 # 1.1 ApolloProvider
 
 # 1.2 useQuery
